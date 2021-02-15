@@ -1,5 +1,6 @@
 ### Hi man ✌️ 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boymelancholy&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boymelancholy&count_private=true&show_icons=true&hide_border=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boymelancholy&exclude_repo=samplecodes,behave&langs_count=10&hide=c%2B%2B,c,css,scss,makefile&hide_border=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
 <!--
 **boymelancholy/boymelancholy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
